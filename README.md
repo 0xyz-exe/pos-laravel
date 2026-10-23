@@ -2,6 +2,8 @@
 
 Laravel 13 point-of-sale and inventory application. Independent project in the Laravel Projects Factory Part 2 series.
 
+Repository: https://github.com/0xyz-exe/pos-laravel.
+
 ## Features
 - Login-protected cashier screen; search by product name, SKU, barcode.
 - Product/category catalog with SKU, optional barcode, integer-minor-unit price, and stock.
