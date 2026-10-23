@@ -1,25 +1,23 @@
 # POS Laravel
 
-Laravel 13 point-of-sale and inventory application. Independent project in the Laravel Projects Factory Part 2 series.
-
-Repository: https://github.com/0xyz-exe/pos-laravel.
+Repository: https://github.com/0xyz-exe/pos-laravel
 
 ## Screenshots
 
 ### Point of Sale Cashier Terminal
-![Point of Sale cashier terminal](docs/screenshots/02_pos_terminal.png)
+![Point of Sale cashier terminal](docs/screenshots/01_pos_terminal.png)
 
 ### Product Catalog & Inventory
-![Product catalog](docs/screenshots/03_products.png)
+![Product catalog](docs/screenshots/02_products.png)
 
 ### Category Management
-![Category management](docs/screenshots/04_categories.png)
+![Category management](docs/screenshots/03_categories.png)
 
 ### Transaction Receipt
-![Transaction receipt](docs/screenshots/05_receipt.png)
+![Transaction receipt](docs/screenshots/04_receipt.png)
 
 ### Secure Authentication
-![Authentication](docs/screenshots/01_login.png)
+![Authentication](docs/screenshots/05_login.png)
 
 ## Features
 - Login-protected cashier screen; search by product name, SKU, barcode.
