@@ -4,20 +4,12 @@ Repository: https://github.com/0xyz-exe/pos-laravel
 
 ## Screenshots
 
-### Point of Sale Cashier Terminal
-![Point of Sale cashier terminal](docs/screenshots/01_pos_terminal.png)
-
-### Product Catalog & Inventory
-![Product catalog](docs/screenshots/02_products.png)
-
-### Category Management
-![Category management](docs/screenshots/03_categories.png)
-
-### Transaction Receipt
-![Transaction receipt](docs/screenshots/04_receipt.png)
-
-### Secure Authentication
-![Authentication](docs/screenshots/05_login.png)
+| Tampilan | Preview |
+|---|---|
+| **Terminal Kasir POS & Katalog Produk**<br>Antarmuka kasir penjualan langsung dengan metrik penjualan 30 hari, pencarian produk via nama/SKU/barcode, dan katalog kartu | ![Terminal Kasir POS & Katalog Produk](docs/screenshots/01-pos-terminal-overview.png) |
+| **Kasir Aktif & Register Transaksi Penjualan**<br>Register penjualan aktif dengan rincian item belanja (+/- kuantitas), kalkulasi subtotal minor units, diskon, dan metode pembayaran | ![Kasir Aktif & Register Transaksi Penjualan](docs/screenshots/02-active-sale-register.png) |
+| **Struk Transaksi Penjualan & Audit Void**<br>Lembar struk transaksi resmi dengan detail kasir, item breakdown, subtotal/pajak, cetak receipt, dan kontrol pembatalan void admin | ![Struk Transaksi Penjualan & Audit Void](docs/screenshots/03-sale-receipt-breakdown.png) |
+| **Manajemen Inventaris & Stok Produk Admin**<br>Tabel kontrol inventaris produk untuk memantau SKU, kategori, harga dalam minor units, stok riil, serta aksi kurasi produk | ![Manajemen Inventaris & Stok Produk Admin](docs/screenshots/04-inventory-product-management.png) |
 
 ## Features
 - Login-protected cashier screen; search by product name, SKU, barcode.
